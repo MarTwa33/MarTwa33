@@ -54,6 +54,9 @@ My name is Marcin Twar√≥g. I graduated in Civil Engineering from the Akademia G√
 # My Test Documentation
 
 * Test cases
+- [Requirements](https://drive.google.com/file/d/19B1CBreDvYeG9uRZ-Zb1PR5E0hMqGe-T/view?usp=sharing)
+- [Case 15](https://drive.google.com/file/d/19CROuQ3PX5mFcvi6qqw2MJ9SGo2fhKs3/view?usp=sharing)
+- [Case 16](https://drive.google.com/file/d/19BIeaiEA16VaN2QpggiW60wPjItHckUl/view?usp=sharing)
 
 * Bug reports
 - [uTest.com 1/3](https://drive.google.com/file/d/19-cX3vjpjYKPRxWUNjZVWGU-Vl8Xbbc7/view?usp=sharing)
@@ -65,5 +68,3 @@ My name is Marcin Twar√≥g. I graduated in Civil Engineering from the Akademia G√
 
 * Programming (Python)
 - [Python: Password veryfication](https://drive.google.com/file/d/197oxSE-947FfgGWsNWnQ3eHaV7UnhdUU/view?usp=sharing)
-
-
